@@ -1,6 +1,6 @@
 
 ---
- "Ataki ransomware w modelu RaaS - zagrożenie przyszłości"
+ATAKI RANSOMWERE W MODELU RaaS - zagrożenie przyszłości
 date: 2026-01-24
 ---
 
