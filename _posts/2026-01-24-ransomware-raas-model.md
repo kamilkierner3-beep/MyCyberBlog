@@ -1,6 +1,6 @@
 
 ---
-## ATAKI RANSOMWERE W MODELU RaaS - zagrożenie przyszłości
+## ATAKI RANSOMWARE W MODELU RaaS - zagrożenie przyszłości
 
 ---
 
