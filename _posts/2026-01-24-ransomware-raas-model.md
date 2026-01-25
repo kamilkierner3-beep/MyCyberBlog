@@ -1,11 +1,11 @@
 
 ---
-layout: post
+
 title: "Ataki ransomware w modelu RaaS - zagrożenie przyszłości"
 date: 2026-01-24
-categories: cybersecurity ransomware
-tags: RaaS cyberprzestępczość bezpieczeństwo
 ---
+
+
 
 ## Czym jest Ransomware as a Service?
 
