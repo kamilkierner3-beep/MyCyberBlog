@@ -1,8 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-layout: default
-permalink: /404.html
+
 
 # Site locale
 lang: "en"
