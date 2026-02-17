@@ -1,5 +1,5 @@
 ---
-title: "Najgrozniejsze Ataki"
+title: "Techniki ataków"
 category: ataki
 ---
 
