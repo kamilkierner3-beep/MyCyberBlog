@@ -1,5 +1,5 @@
 ---
-title: "Mój projekt"
+title: "Moje projekty"
 category: Projekt
 ---
 
