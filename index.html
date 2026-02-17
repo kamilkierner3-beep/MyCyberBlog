@@ -1,15 +1,120 @@
 ---
-layout: default
----
----
-layout: page
-title: Moja Wiedza Cybersecurity
+layout: home
+title: Strona Główna
 ---
 
-## Sekcje:
+<style>
+.section-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
 
-### [Ataki](/category/ataki/)
-### [Narzędzia](/category/narzedzia/)
-### [Obrona](/category/obrona/)
-### [Writeups](/category/writeups/)
-### [Projekty](/category/projekty/)
+.section-card {
+  background: #ffffff10;
+  border: 1px solid #ffffff20;
+  padding: 20px;
+  border-radius: 12px;
+  backdrop-filter: blur(6px);
+  transition: 0.25s ease;
+}
+
+.section-card:hover {
+  transform: translateY(-4px);
+  border-color: #00c3ff;
+  box-shadow: 0 0 12px #00c3ff50;
+}
+
+.section-card h2 {
+  margin-top: 0;
+  color: #00c3ff;
+  font-size: 1.4rem;
+  border-bottom: 1px solid #ffffff20;
+  padding-bottom: 8px;
+  margin-bottom: 12px;
+}
+
+.section-card ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.section-card li {
+  margin-bottom: 8px;
+}
+
+.section-card a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.section-card a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<div class="section-grid">
+
+<div class="section-card">
+<h2>Ataki</h2>
+<ul>
+  {% for post in site.categories.ataki %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="post-meta"> — {{ post.date | date: "%Y-%m-%d" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+</div>
+
+<div class="section-card">
+<h2>Obrona</h2>
+<ul>
+  {% for post in site.categories.obrona %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="post-meta"> — {{ post.date | date: "%Y-%m-%d" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+</div>
+
+<div class="section-card">
+<h2>Narzędzia</h2>
+<ul>
+  {% for post in site.categories.narzedzia %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="post-meta"> — {{ post.date | date: "%Y-%m-%d" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+</div>
+
+<div class="section-card">
+<h2>Writeups</h2>
+<ul>
+  {% for post in site.categories.writeups %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="post-meta"> — {{ post.date | date: "%Y-%m-%d" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+</div>
+
+<div class="section-card">
+<h2>Projekty</h2>
+<ul>
+  {% for post in site.categories.projekty %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="post-meta"> — {{ post.date | date: "%Y-%m-%d" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+</div>
+
+</div>
+
