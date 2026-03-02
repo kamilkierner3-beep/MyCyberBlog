@@ -109,3 +109,7 @@ exclude:
 # Robots are welcome
 include:
   - robots.txt
+collections:
+  ataki:
+    output: true
+    permalink: /ataki/:name/
