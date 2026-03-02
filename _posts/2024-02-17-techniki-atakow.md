@@ -25,3 +25,11 @@ Atakujący zazwyczaj wysyłają wiadomości phishingowe z załącznikami zawiera
 ## Jak się bronić?
 
 Kluczowe metody obrony obejmują wdrożenie uwierzytelniania DMARC do weryfikacji nadawców email oraz filtrowanie DNS wykrywające komunikację ransomware z serwerami dowodzenia i kontroli (C2). Organizacje powinny regularnie tworzyć kopie zapasowe, edukować pracowników w zakresie phishingu oraz utrzymywać aktualne systemy zabezpieczeń, które mogą blokować transmisję złośliwego oprogramowania jeszcze przed infekcją.
+
+## Artykuły o technikach ataków
+
+- [Ransomware – opis ataku](/MyCyberBlog/2024/02/17/techniki-atakow/)
+- [Phishing – techniki i wykrywanie](/MyCyberBlog/2026/03/05/phishing/)
+
+
+
