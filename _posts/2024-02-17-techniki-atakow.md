@@ -28,8 +28,8 @@ Kluczowe metody obrony obejmują wdrożenie uwierzytelniania DMARC do weryfikacj
 
 ## Artykuły o technikach ataków
 
+- [Phishing – techniki i wykrywanie](/MyCyberBlog/techniki-atakow/2026/03/02/phishing/)
 
-- [Phishing – techniki i wykrywanie](/MyCyberBlog/2026/03/02/phishing/)
 
 
 
