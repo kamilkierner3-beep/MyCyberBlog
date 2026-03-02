@@ -1,5 +1,5 @@
 ---
-title: "Techniki ataków"
+title: "Techniki-atakow"
 category: ataki
 ---
 
