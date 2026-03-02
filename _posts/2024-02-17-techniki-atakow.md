@@ -29,7 +29,7 @@ Kluczowe metody obrony obejmują wdrożenie uwierzytelniania DMARC do weryfikacj
 ## Artykuły o technikach ataków
 
 - [Ransomware – opis ataku](/MyCyberBlog/2024/02/17/techniki-atakow/)
-- [Phishing – techniki i wykrywanie](/MyCyberBlog/2026/03/05/phishing/)
+- [Phishing – techniki i wykrywanie](/MyCyberBlog/2026/03/02/phishing/)
 
 
 
