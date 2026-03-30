@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "ClickFix: fałszywa CAPTCHA jako wektor ataku"
+title: "ClickFix: falszywa CAPTCHA jako wektor ataku"
 date: 2026-03-30
-categories:techniki-atakow
+categories: techniki-atakow
 ---
 
-# ClickFix: fałszywa CAPTCHA jako wektor ataku
+# ClickFix: falszywa CAPTCHA jako wektor ataku
 
 ClickFix to **technika socjotechniczna**, w której ofiara widzi fałszywą CAPTCHA lub „test weryfikacyjny” i zostaje poproszona o skopiowanie komendy z przeglądarki do Win+R, Terminala lub PowerShell. Atak nie wykorzystuje klasycznej luki w systemie, tylko przyzwyczajenie użytkownika do „naprawiania problemów” zgodnie z instrukcją na ekranie, co pozwala obejść część typowych filtrów maila i AV. W efekcie użytkownik sam staje się instalatorem malware.
 
