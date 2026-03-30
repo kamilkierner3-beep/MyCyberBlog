@@ -3,8 +3,7 @@
 layout: post
 title: "ClickFix: fałszywa CAPTCHA jako wektor ataku"
 date: 2026-03-30
-categories: [security, soc, phishing]
-tags: [clickfix, captcha, social-engineering, windows, malware]
+categories: techniki-atakow
 ---
 
 # ClickFix: fałszywa CAPTCHA jako wektor ataku
