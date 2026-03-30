@@ -30,6 +30,6 @@ Kluczowe metody obrony obejmują wdrożenie uwierzytelniania DMARC do weryfikacj
 
 - [Phishing – techniki i wykrywanie](/MyCyberBlog/techniki-atakow/2026/03/02/phishing/)
 
-
+- [ClickFix – fałszywe CAPTCHA jako wektor ataku](/MyCyberBlog/techniki-atakow/2026/03/30/clickfix-falszywe-captcha-jako-wektor-ataku/)
 
 
