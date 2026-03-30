@@ -1,4 +1,4 @@
----
+
 layout: post
 title: "ClickFix: fałszywa CAPTCHA jako wektor ataku"
 date: 2026-03-30
