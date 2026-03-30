@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "ClickFix: falszywa CAPTCHA jako wektor ataku"
 date: 2026-03-30
 categories: techniki-atakow
 ---
