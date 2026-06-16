@@ -1,8 +1,8 @@
 ---
 title: "DDoS — Mechanizm ataku, przygotowanie, techniki, obrona i skutki"
-date: 2025-06-16
+date: 2026-06-16
 categories: techniki-atakow
-permalink: /techniki-atakow/2025/06/16/ddos-attack-analysis/
+permalink: /techniki-atakow/2026/06/16/ddos-attack-analysis/
 ---
 
 # DDoS — Mechanizm ataku, przygotowanie, techniki, obrona i skutki
