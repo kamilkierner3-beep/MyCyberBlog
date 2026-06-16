@@ -1,6 +1,7 @@
 # DDoS — Mechanizm ataku, przygotowanie, techniki, obrona i skutki  
-
-
+date: 2026-06-16
+categories: techniki-atakow
+-------
 ## 1. Na czym polega atak DDoS
 DDoS (Distributed Denial of Service) to skoordynowany atak polegający na przeciążeniu usługi ogromną liczbą żądań wysyłanych jednocześnie z tysięcy rozproszonych urządzeń (botnetów). Celem jest wyczerpanie zasobów — pasma, CPU, pamięci lub limitów połączeń — aż do całkowitej niedostępności aplikacji, API lub infrastruktury. Ataki często prowadzone są falami, aby utrudnić reakcję obronną.
 
