@@ -5,7 +5,6 @@ categories: techniki-atakow
 permalink: /techniki-atakow/2026/06/16/ddos-attack-analysis/
 ---
 
-# DDoS — Mechanizm ataku, przygotowanie, techniki, obrona i skutki
 
 Atak DDoS (Distributed Denial of Service) polega na przeciążeniu usługi ogromną liczbą żądań wysyłanych jednocześnie z wielu rozproszonych źródeł. Celem jest wyczerpanie zasobów serwera — pasma, CPU, pamięci lub limitów połączeń — aż do całkowitej niedostępności aplikacji. Ataki często prowadzone są falami, aby utrudnić reakcję obronną i zwiększyć skuteczność.
 
